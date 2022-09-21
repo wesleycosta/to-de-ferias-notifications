@@ -15,6 +15,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{E6B4C92C
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ToDeFerias.Rooms.DomainTests", "..\..\to-de-ferias-rooms\tests\ToDeFerias.Rooms.DomainTests.csproj", "{B36DE81D-5198-4354-BE28-60918B77CDBE}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solutions-items", "solutions-items", "{5B869DD4-16EA-4867-8A45-B4B8C2396DE2}"
+	ProjectSection(SolutionItems) = preProject
+		..\devops\Dockerfile = ..\devops\Dockerfile
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
