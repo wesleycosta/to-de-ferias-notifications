@@ -5,7 +5,7 @@ Microsserviço responsável pelo envio de notificações aos hóspedes.
 [![Build status](https://wlcosta.visualstudio.com/to-de-ferias/_apis/build/status/to-de-ferias-notifications-ci)](https://wlcosta.visualstudio.com/to-de-ferias/_build/latest?definitionId=9)
 
 ## Arquitetura
-Veja abaixo a interações entre os microsserviços.
+Veja abaixo as interações entre os microsserviços.
 
 <p align="center">
   <img src="https://github.com/wesleycosta/to-de-ferias-bookings/blob/main/docs/architecture.png" />
